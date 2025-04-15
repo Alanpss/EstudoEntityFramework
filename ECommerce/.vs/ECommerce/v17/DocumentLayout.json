@@ -3,7 +3,12 @@
   "WorkspaceRootPath": "C:\\workspace\\repositories\\EstudoEntityFramework\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\workspace\\repositories\\EstudoEntityFramework\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{D96D9154-BED3-4B4A-9633-915BC8D1DFD6}|ECommerce.API\\ECommerce.API.csproj|c:\\workspace\\repositories\\estudoentityframework\\ecommerce\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96D9154-BED3-4B4A-9633-915BC8D1DFD6}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96D9154-BED3-4B4A-9633-915BC8D1DFD6}|ECommerce.API\\ECommerce.API.csproj|c:\\workspace\\repositories\\estudoentityframework\\ecommerce\\ecommerce.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96D9154-BED3-4B4A-9633-915BC8D1DFD6}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D96D9154-BED3-4B4A-9633-915BC8D1DFD6}|ECommerce.API\\ECommerce.API.csproj|c:\\workspace\\repositories\\estudoentityframework\\ecommerce\\ecommerce.api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,33 +38,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\workspace\\repositories\\EstudoEntityFramework\\.gitignore",
-              "RelativeDocumentMoniker": "..\\.gitignore",
-              "ToolTip": "C:\\workspace\\repositories\\EstudoEntityFramework\\.gitignore",
-              "RelativeToolTip": "..\\.gitignore",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-15T21:31:44.391Z",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\workspace\\repositories\\EstudoEntityFramework\\ECommerce\\ECommerce.API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\workspace\\repositories\\EstudoEntityFramework\\ECommerce\\ECommerce.API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ECommerce.API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:03:50.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\repositories\\EstudoEntityFramework\\ECommerce\\ECommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Program.cs",
+              "ToolTip": "C:\\workspace\\repositories\\EstudoEntityFramework\\ECommerce\\ECommerce.API\\Program.cs",
+              "RelativeToolTip": "ECommerce.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:49:05.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\workspace\\repositories\\EstudoEntityFramework\\ECommerce\\ECommerce.API\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "ECommerce.API\\Repositories\\UsuarioRepository.cs",
               "ToolTip": "C:\\workspace\\repositories\\EstudoEntityFramework\\ECommerce\\ECommerce.API\\Repositories\\UsuarioRepository.cs",
               "RelativeToolTip": "ECommerce.API\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T21:20:03.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\workspace\\repositories\\EstudoEntityFramework\\ECommerce\\ECommerce.API\\Repositories\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "ECommerce.API\\Repositories\\IUsuarioRepository.cs",
